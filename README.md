@@ -6,7 +6,7 @@
 
 CardetectionML ist ein Python-basiertes Machine-Learning-Projekt zur automatisierten Analyse von Fahrzeugen in einem Live-YouTube-Trafficstream.  
 Das System erkennt, trackt und analysiert Fahrzeuge mithilfe von Deep-Learning und Computer Vision.
-![Alternativtext](SINGLEOPENCVPYTHONSCREENSHOT_edited.png|400)
+![OpenCV Project Example Pic](SINGLEOPENCVPYTHONSCREENSHOT_edited.png)
 
 
 ---
